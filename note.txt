@@ -1,0 +1,9 @@
+********
+Deuda técnica
+- Imprudente - Prudente
+- Inadvertida - ahora sabemos lo que debemos hacer!
+ Solución -> Refactorización y pruebas automáticas
+
+ * El objetivo del Clean Code es la fácil lectura del código
+
+
