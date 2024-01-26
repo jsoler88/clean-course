@@ -10,3 +10,5 @@ PRINCIPIO DRY(Don´t repeat yourself)
 - Evitar duplicidad
 - Simplificar pruebas
 - principio DRY, usualmente lleva a una refactorización
+
+*
